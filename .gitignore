@@ -1,0 +1,42 @@
+# Backend (Backend folder)
+Backend/.env
+Backend/.env.local
+Backend/.env.*.local
+Backend/node_modules/
+Backend/*.log
+Backend/logs/
+Backend/npm-debug.log*
+Backend/yarn-debug.log*
+Backend/yarn-error.log*
+
+# Frontend (AdminPanel folder)
+AdminPanel/.env
+AdminPanel/.env.local
+AdminPanel/.env.*.local
+AdminPanel/node_modules/
+AdminPanel/build/
+AdminPanel/dist/
+AdminPanel/*.log
+AdminPanel/npm-debug.log*
+AdminPanel/yarn-debug.log*
+AdminPanel/yarn-error.log*
+
+CustomerPanel/.env
+CustomerPanel/.env.local
+CustomerPanel/.env.*.local
+CustomerPanel/node_modules/
+CustomerPanel/build/
+CustomerPanel/dist/
+CustomerPanel/*.log
+CustomerPanel/npm-debug.log*
+CustomerPanel/yarn-debug.log*
+CustomerPanel/yarn-error.log*
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+node_modules/
+.cache/
+*.pack
